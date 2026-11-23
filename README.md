@@ -9,25 +9,32 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Yair_Silva_Mendoza-0B0D10?style=for-the-badge&logo=linkedin&logoColor=FF6B2C&labelColor=11151A" alt="LinkedIn"/></a>
-  <a href="mailto:TU-CORREO@dominio.com"><img src="https://img.shields.io/badge/Email-Contacto-0B0D10?style=for-the-badge&logo=gmail&logoColor=FF6B2C&labelColor=11151A" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Ubicación-México-0B0D10?style=for-the-badge&logo=googlemaps&logoColor=FF6B2C&labelColor=11151A" alt="México"/>
-  <img src="https://img.shields.io/badge/Estado-Abierto_a_oportunidades-FF6B2C?style=for-the-badge&labelColor=11151A" alt="Abierto a oportunidades"/>
+  <a href="https://www.linkedin.com/in/yair-silva-mendoza-8045266b"><img src="https://img.shields.io/badge/LinkedIn-Yair_Silva_Mendoza-0B0D10?style=for-the-badge&logo=linkedin&logoColor=FF6B2C&labelColor=11151A" alt="LinkedIn"/></a>
+  <a href="mailto:yairs.mendoza@hotmail.com"><img src="https://img.shields.io/badge/Email-yairs.mendoza@hotmail.com-0B0D10?style=for-the-badge&logo=microsoftoutlook&logoColor=FF6B2C&labelColor=11151A" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Ubicación-CDMX-0B0D10?style=for-the-badge&logo=googlemaps&logoColor=FF6B2C&labelColor=11151A" alt="CDMX, México"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Formación-Skylab_Coders_·_Barcelona,_España-0B0D10?style=for-the-badge&logo=react&logoColor=FF6B2C&labelColor=11151A" alt="Skylab Coders Academy, Barcelona"/>
+  <img src="https://img.shields.io/badge/Estado-Abierto_a_oportunidades_internacionales-FF6B2C?style=for-the-badge&labelColor=11151A" alt="Abierto a oportunidades internacionales"/>
 </p>
 
 ---
 
 ## `$ whoami`
 
-Gerente de Desarrollo en **Capnet Solutions**. Dirijo el desarrollo y la operación de **SeguimientoLite**, la plataforma de postventa que usan agencias de **Nissan, Hyundai, Stellantis, Mazda y Toyota** en **México y Colombia**: seguimiento de órdenes de servicio, cotizaciones, inspecciones, evidencias y comunicación con el cliente.
+Gerente de Desarrollo en **Capital Network (Capnet)**. Dirijo el desarrollo y la operación de **SeguimientoLite**, la plataforma de postventa que usan agencias de **Nissan, Hyundai, Stellantis, Mazda y Toyota** en **México, Colombia y Ecuador**: seguimiento de órdenes de servicio, cotizaciones, inspecciones, evidencias y comunicación con el cliente.
 
-Mi trabajo va de punta a punta: defino arquitectura, planeo integraciones con proveedores, reviso código, priorizo backlog y me aseguro de que lo que sale a producción funcione en servidores Windows de cada agencia.
+Antes fui **Tech Lead en Inetum** para cuentas de **Walmart** y **DHL**: dirigí equipos con Scrum y diseñé desde cero la arquitectura de una solución con login por QR, OCR y verificación facial. Me formé como desarrollador full-stack en **Skylab Coders Academy, en Barcelona (España)**, y soy **Ingeniero en Sistemas Computacionales**.
+
+Combino gestión y ejecución técnica: defino arquitectura, coordino equipos y proveedores, priorizo backlog, reviso código y me aseguro de que lo que sale a producción funcione.
 
 ```yaml
-rol:          Gerente de Desarrollo · Full-Stack
-experiencia:  9+ años desarrollando software (laborando desde los 17)
-dominio:      Postventa automotriz · DMS · multi-tenant · datos multi-sede
-enfoque:      Arquitectura · Integraciones · DevOps on-premise · Liderazgo técnico
+rol:          Gerente de Desarrollo · Tech Lead · Full-Stack
+experiencia:  9+ años en TI y desarrollo (desde 2017)
+actual:       Gerente de Desarrollo en Capital Network · Consultor externo en TELMEX/MACC (Banco del Bienestar)
+antes:        Inetum (Walmart, DHL) · Capital Network · SSM · Carvajal
+formación:    Ing. Sistemas Computacionales · Bootcamp Full-Stack Skylab Coders (Barcelona)
+alcance:      México · Colombia · Ecuador
+enfoque:      Arquitectura · Liderazgo de equipos · Integraciones · Operación de sistemas críticos
 ```
 
 ---
@@ -39,7 +46,7 @@ enfoque:      Arquitectura · Integraciones · DevOps on-premise · Liderazgo t�
     <td width="50%" valign="top">
 
 **Plataforma multi-marca en producción**<br/>
-Una sola base Django desplegada por cliente, con configuración por tenant (prefijos, rutas, vistas SQL por esquema) para 5 marcas en 2 países.
+Una sola base Django desplegada por cliente, con configuración por tenant (prefijos, rutas, vistas SQL por esquema) para 5 marcas en 3 países.
 
   </td>
     <td width="50%" valign="top">
@@ -175,20 +182,103 @@ WhatsApp ─▶ bot (Cloud API) ─▶ enlace personal al menú web ─▶ carri
 
 ---
 
-## Trayectoria
+## Experiencia
 
 ```text
-2012 ──●── Empiezo a trabajar a los 17 años
+HOY  ──◉── CAPITAL NETWORK ·········· Gerente de Desarrollo
+       │   SeguimientoLite, Capnet Agenda, Monitor · Toyota, Hyundai, Nissan · MX / CO / EC
        │
-2017 ──●── Desarrollador full-stack
-       │   Web, móvil (Android/Java) y bases de datos
+HOY  ──○── TELMEX / MACC ············ Consultor externo · Tecnología y Desarrollo  (en paralelo)
+       │   Proyectos Banco del Bienestar · implementación de telefonía, servidores y cableado
        │
- ...  ──●── Capnet Solutions
-       │   Plataformas de postventa para agencias automotrices
+2023 ──●── INETUM HOLDING MÉXICO ···· Tech Lead / Líder Técnico de Desarrollo   (2023–2025)
+       │   Walmart · DHL
        │
-HOY  ──◉── Gerente de Desarrollo
-           Arquitectura · Equipo · Integraciones · Operación en MX y CO
+2020 ──●── CAPITAL NETWORK ·········· Coordinador de Soporte y Sistemas         (2020–2023)
+       │   Toyota, Hyundai, Nissan · soporte México y Ecuador (Mavesa)
+       │
+2018 ──●── SYSTEM SAFETY DE MÉXICO ·· Soporte técnico y sistemas                (2018–2020)
+       ●── HICKOK (Laboratorios) ···· Facturación y sistemas administrativos    (2018)
+       │
+2017 ──●── CARVAJAL TECNOLOGÍA ······ Implementador Jr.                         (2017–2018)
+       ●── SKYLAB CODERS ACADEMY ···· Bootcamp Full-Stack · Barcelona, España
 ```
+
+<details open>
+<summary><b>Capital Network</b>: Gerente de Desarrollo (2026 – hoy)</summary>
+
+- Dirijo el desarrollo y la operación de la plataforma de postventa en agencias de **Toyota, Hyundai, Nissan, Stellantis y Mazda**.
+- Arquitectura e implementación de **Capnet Agenda**, **Capnet Monitor**, CapnetBridge y la reinvención de Tableros V4 para Hyundai.
+- Coordino el soporte en **México, Colombia y Ecuador** y llevo incidentes críticos, mantenimientos, prioridades y proveedores.
+- Bases de datos SQL Server multi-agencia, control de accesos y continuidad operativa.
+</details>
+
+<details open>
+<summary><b>TELMEX / MACC</b>: Consultor externo de Tecnología y Desarrollo (actual, en paralelo)</summary>
+
+- Consultoría externa de tecnología y desarrollo para los proyectos del **Banco del Bienestar**.
+- Líder de implementación de sistemas: telefonía y centrales de llamadas, servidores e infraestructura TI.
+- Diseño y supervisión de **cableado estructurado** y puesta en marcha de sitios.
+</details>
+
+<details open>
+<summary><b>Inetum Holding México</b>: Tech Lead / Líder Técnico de Desarrollo (2023 – 2025)</summary>
+
+**Walmart**
+- Lideré el desarrollo y la evolución de aplicaciones en producción: nuevas funcionalidades y mantenimiento correctivo.
+- Coordiné desarrolladores con Scrum (dailies y sprints) y gestioné historias de usuario en Jira, con planeación de entregas.
+- Documentación técnica y funcional para liberaciones; enlace entre áreas técnicas y de negocio.
+
+**DHL**
+- Diseñé el modelo de datos y la arquitectura de la solución.
+- Desarrollé un login con código QR, módulos de **OCR** y **verificación facial** con SDK.
+</details>
+
+<details>
+<summary><b>Capital Network</b>: Coordinador de Soporte y Sistemas (2020 – 2023)</summary>
+
+- Operación de sistemas para Toyota, Hyundai y Nissan; soporte técnico en México y Ecuador (Mavesa).
+- Administración de bases de datos SQL y plataformas internas; mejoras funcionales con Django, Python y JavaScript.
+- Gestión de tickets e incidentes críticos, control de accesos y documentación de procesos.
+</details>
+
+<details>
+<summary><b>SSM · Hickok · Carvajal</b>: Infraestructura, soporte e implementación (2017 – 2020)</summary>
+
+- **System Safety de México:** soporte técnico, redes, cableado estructurado y CCTV.
+- **Hickok (Laboratorios Biology):** facturación y sistemas administrativos.
+- **Carvajal Tecnología y Servicios:** implementador Jr.
+</details>
+
+---
+
+## Formación
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**Skylab Coders Academy · Barcelona, España**<br/>
+<sub>2017 · Full-Stack Development Bootcamp</sub>
+
+Bootcamp intensivo presencial de desarrollo full-stack con JavaScript en Barcelona: proyectos en equipo, metodologías ágiles y estándares de la industria europea. Ahí empezó mi carrera como desarrollador.
+
+  </td>
+    <td width="50%" valign="top">
+
+**Ingeniería en Sistemas Computacionales**<br/>
+<sub>Tecnológico Universitario Naucalpan · 2015 – 2020 · Concluida</sub>
+
+**Técnico en Informática**<br/>
+<sub>CETIS No. 8 "Rafael Donde" · 2011 – 2014</sub>
+
+**Cursos:** Desarrollo Web (certificado por Google) · Codecademy · Udemy · Desarrollo de apps móviles (TECMILENIO)
+
+  </td>
+  </tr>
+</table>
+
+**Idiomas:** español nativo · inglés técnico / intermedio
 
 ---
 
@@ -203,6 +293,14 @@ HOY  ──◉── Gerente de Desarrollo
 </p>
 
 ---
+
+## Contacto
+
+| | |
+|---|---|
+| **Email** | [yairs.mendoza@hotmail.com](mailto:yairs.mendoza@hotmail.com) |
+| **LinkedIn** | [yair-silva-mendoza-8045266b](https://www.linkedin.com/in/yair-silva-mendoza-8045266b) |
+| **Ubicación** | CDMX · disponible para trabajo remoto y reubicación |
 
 <p align="center">
   <sub>¿Buscas a alguien que lleve un producto de la arquitectura a producción y sostenga al equipo en el camino? Escríbeme.</sub>
