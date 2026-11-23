@@ -165,37 +165,14 @@ WhatsApp ─▶ bot (Cloud API) ─▶ enlace personal al menú web ─▶ carri
 </p>
 
 <p align="center">
-  <sub><b>BACKEND Y DATOS</b></sub><br/>
-  <img src="https://img.shields.io/badge/SQL_Server-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/T--SQL-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D" alt="T-SQL"/>
-  <img src="https://img.shields.io/badge/DRF-11151A?style=flat-square&logo=django&logoColor=FF6B2C" alt="DRF"/>
-  <img src="https://img.shields.io/badge/Django_Channels-11151A?style=flat-square&logo=django&logoColor=FF6B2C" alt="Django Channels"/>
-  <img src="https://img.shields.io/badge/Celery-11151A?style=flat-square&logo=celery&logoColor=FF6B2C" alt="Celery"/>
-  <img src="https://img.shields.io/badge/Redis-11151A?style=flat-square&logo=redis&logoColor=FF6B2C" alt="Redis"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-11151A?style=flat-square&logo=postgresql&logoColor=FF6B2C" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/ReportLab_/_PDF-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnoiLz48cGF0aCBkPSJNMTQgMnY2aDZNOSAxM2g3TTkgMTdoNyIvPjwvc3ZnPg%3D%3D" alt="ReportLab / PDF"/><br/><br/>
-  <sub><b>INTEGRACIONES</b></sub><br/>
-  <img src="https://img.shields.io/badge/Slack_API-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik00IDRoMTZ2MTJIOWwtNSA0eiIvPjxwYXRoIGQ9Ik04IDloOE04IDEyaDUiLz48L3N2Zz4%3D" alt="Slack API"/>
-  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-11151A?style=flat-square&logo=whatsapp&logoColor=FF6B2C" alt="WhatsApp Cloud API"/>
-  <img src="https://img.shields.io/badge/Zoom_API-11151A?style=flat-square&logo=zoom&logoColor=FF6B2C" alt="Zoom API"/>
-  <img src="https://img.shields.io/badge/iCalendar_/_IMAP-11151A?style=flat-square&logo=googlecalendar&logoColor=FF6B2C" alt="iCalendar / IMAP"/>
-  <img src="https://img.shields.io/badge/Redmine_API-11151A?style=flat-square&logo=redmine&logoColor=FF6B2C" alt="Redmine API"/>
-  <img src="https://img.shields.io/badge/OCR_/_Biometría_facial-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0zIDhWM2g1TTE2IDNoNXY1TTIxIDE2djVoLTVNOCAyMUgzdi01Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMSIgcj0iMyIvPjxwYXRoIGQ9Ik03IDE4YzEtMi41IDMtMy41IDUtMy41czQgMSA1IDMuNSIvPjwvc3ZnPg%3D%3D" alt="OCR / Biometría facial"/><br/><br/>
-  <sub><b>INFRAESTRUCTURA Y OPERACIÓN</b></sub><br/>
-  <img src="https://img.shields.io/badge/Windows_Server-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMS41Ii8%2BPHJlY3QgeD0iMyIgeT0iMTQiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMS41Ii8%2BPGNpcmNsZSBjeD0iNyIgY3k9IjYuNSIgcj0iMSIgZmlsbD0iI0ZGNkIyQyIvPjxjaXJjbGUgY3g9IjciIGN5PSIxNy41IiByPSIxIiBmaWxsPSIjRkY2QjJDIi8%2BPC9zdmc%2B" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/IIS-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMS41Ii8%2BPHJlY3QgeD0iMyIgeT0iMTQiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMS41Ii8%2BPGNpcmNsZSBjeD0iNyIgY3k9IjYuNSIgcj0iMSIgZmlsbD0iI0ZGNkIyQyIvPjxjaXJjbGUgY3g9IjciIGN5PSIxNy41IiByPSIxIiBmaWxsPSIjRkY2QjJDIi8%2BPC9zdmc%2B" alt="IIS"/>
-  <img src="https://img.shields.io/badge/Daphne_/_ASGI-11151A?style=flat-square&logo=django&logoColor=FF6B2C" alt="Daphne / ASGI"/>
-  <img src="https://img.shields.io/badge/Redes_y_cableado_estructurado-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjkiIHk9IjIiIHdpZHRoPSI2IiBoZWlnaHQ9IjUiLz48cmVjdCB4PSIyIiB5PSIxNyIgd2lkdGg9IjYiIGhlaWdodD0iNSIvPjxyZWN0IHg9IjE2IiB5PSIxNyIgd2lkdGg9IjYiIGhlaWdodD0iNSIvPjxwYXRoIGQ9Ik0xMiA3djVNNSAxN3YtNWgxNHY1Ii8%2BPC9zdmc%2B" alt="Redes y cableado estructurado"/>
-  <img src="https://img.shields.io/badge/Telefonía_/_conmutadores-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik01IDNoNGwyIDUtMyAyYTExIDExIDAgMCAwIDYgNmwyLTMgNSAydjRhMiAyIDAgMCAxLTIgMkExNyAxNyAwIDAgMSAzIDVhMiAyIDAgMCAxIDItMnoiLz48L3N2Zz4%3D" alt="Telefonía / conmutadores"/>
-  <img src="https://img.shields.io/badge/CCTV-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0zIDZoMTN2OUgzeiIvPjxwYXRoIGQ9Ik0xNiA5bDUtM3Y5bC01LTNNNyAxNXY1aDYiLz48L3N2Zz4%3D" alt="CCTV"/>
-  <img src="https://img.shields.io/badge/AnyDesk-11151A?style=flat-square&logo=anydesk&logoColor=FF6B2C" alt="AnyDesk"/>
-  <img src="https://img.shields.io/badge/TeamViewer-11151A?style=flat-square&logo=teamviewer&logoColor=FF6B2C" alt="TeamViewer"/><br/><br/>
-  <sub><b>GESTIÓN</b></sub><br/>
-  <img src="https://img.shields.io/badge/Jira-11151A?style=flat-square&logo=jira&logoColor=FF6B2C" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Scrum-11151A?style=flat-square&logo=scrumalliance&logoColor=FF6B2C" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Agile-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMCAxMmE4IDggMCAxIDEtMy02LjIiLz48cGF0aCBkPSJNMjAgM3Y1aC01Ii8%2BPC9zdmc%2B" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Redmine-11151A?style=flat-square&logo=redmine&logoColor=FF6B2C" alt="Redmine"/>
-  <img src="https://img.shields.io/badge/Mesa_de_ayuda_/_ITSM-11151A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY2QjJDIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik00IDRoMTZ2MTJIOWwtNSA0eiIvPjxwYXRoIGQ9Ik04IDloOE04IDEyaDUiLz48L3N2Zz4%3D" alt="Mesa de ayuda / ITSM"/><br/><br/>
+  <sub><b>BACKEND Y DATOS</b></sub><br/><br/>
+  <img src="./assets/stack/stack-backend.png" alt="SQL Server, DRF, Django Channels, Celery, Redis, PostgreSQL, ReportLab" width="616"/><br/><br/>
+  <sub><b>INTEGRACIONES</b></sub><br/><br/>
+  <img src="./assets/stack/stack-integraciones.png" alt="Slack API, WhatsApp Cloud API, Zoom API, iCal/IMAP, Redmine API, OCR y verificación facial" width="528"/><br/><br/>
+  <sub><b>INFRAESTRUCTURA Y OPERACIÓN</b></sub><br/><br/>
+  <img src="./assets/stack/stack-infra.png" alt="Windows Server, IIS, Daphne, redes y cableado, telefonía, CCTV, AnyDesk, TeamViewer" width="704"/><br/><br/>
+  <sub><b>GESTIÓN</b></sub><br/><br/>
+  <img src="./assets/stack/stack-gestion.png" alt="Jira, Scrum, Agile, mesa de ayuda" width="352"/>
 </p>
 
 ---
