@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Yair Silva Mendoza — Gerente de Desarrollo. 9+ años, 5 marcas automotrices, 2 países, 22 agencias.">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1A1F26" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0B0D10" stop-opacity="0"/>
+      <stop offset="0.55" stop-color="#0B0D10" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0B0D10" stop-opacity="0.2"/>
+    </linearGradient>
+    <style>
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace}
+      .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+      .in{opacity:0;animation:in .8s ease-out forwards}
+      .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.85s}
+      @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+      .cursor{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .scan{animation:scan 6s linear infinite}
+      @keyframes scan{from{transform:translateX(-200px)}to{transform:translateX(1400px)}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" rx="14" fill="#0B0D10"/>
+  <rect width="1200" height="400" rx="14" fill="url(#grid)"/>
+  <rect width="1200" height="400" rx="14" fill="url(#fade)"/>
+  <rect class="scan" x="0" y="0" width="140" height="2" fill="#FF6B2C" opacity=".55"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="14" fill="none" stroke="#21262D"/>
+
+  <!-- Columna izquierda -->
+  <rect x="56" y="78" width="4" height="244" fill="#FF6B2C"/>
+  <g class="in d1">
+    <text x="84" y="104" class="mono" font-size="15" fill="#FF6B2C" letter-spacing="2">// GERENTE DE DESARROLLO · FULL-STACK</text>
+  </g>
+  <g class="in d2">
+    <text x="82" y="172" class="sans" font-size="60" font-weight="700" fill="#F0F3F6" letter-spacing="-1.5">Yair Silva Mendoza</text>
+  </g>
+  <g class="in d3">
+    <text x="84" y="218" class="sans" font-size="24" fill="#C9D1D9">Plataformas de postventa automotriz</text>
+    <text x="84" y="250" class="sans" font-size="24" fill="#C9D1D9">para agencias en México y Colombia<tspan class="cursor" fill="#FF6B2C">_</tspan></text>
+  </g>
+  <g class="in d4">
+    <text x="84" y="306" class="mono" font-size="14" fill="#8B949E">Django · DRF · SQL Server · Vue · React · .NET · Windows Server</text>
+  </g>
+
+  <!-- Separador -->
+  <line x1="700" y1="56" x2="700" y2="344" stroke="#21262D"/>
+
+  <!-- Medidores: r=52, circunferencia 326.7, arco de 270° = 245 -->
+  <g class="mono" text-anchor="middle">
+    <!-- 1 -->
+    <g transform="translate(830 128)">
+      <circle r="52" fill="none" stroke="#1F252D" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" transform="rotate(135)"/>
+      <circle r="52" fill="none" stroke="#FF6B2C" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" stroke-dashoffset="245" transform="rotate(135)">
+        <animate attributeName="stroke-dashoffset" from="245" to="25" dur="1.6s" begin=".4s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      </circle>
+      <text y="10" class="sans" font-size="34" font-weight="700" fill="#F0F3F6">9+</text>
+      <text y="74" font-size="12" fill="#8B949E" letter-spacing="1.5">AÑOS DE DESARROLLO</text>
+    </g>
+    <!-- 2 -->
+    <g transform="translate(1050 128)">
+      <circle r="52" fill="none" stroke="#1F252D" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" transform="rotate(135)"/>
+      <circle r="52" fill="none" stroke="#FF6B2C" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" stroke-dashoffset="245" transform="rotate(135)">
+        <animate attributeName="stroke-dashoffset" from="245" to="49" dur="1.6s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      </circle>
+      <text y="10" class="sans" font-size="34" font-weight="700" fill="#F0F3F6">5</text>
+      <text y="74" font-size="12" fill="#8B949E" letter-spacing="1.5">MARCAS AUTOMOTRICES</text>
+    </g>
+    <!-- 3 -->
+    <g transform="translate(830 282)">
+      <circle r="52" fill="none" stroke="#1F252D" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" transform="rotate(135)"/>
+      <circle r="52" fill="none" stroke="#FF6B2C" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" stroke-dashoffset="245" transform="rotate(135)">
+        <animate attributeName="stroke-dashoffset" from="245" to="98" dur="1.6s" begin=".8s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      </circle>
+      <text y="10" class="sans" font-size="34" font-weight="700" fill="#F0F3F6">2</text>
+      <text y="74" font-size="12" fill="#8B949E" letter-spacing="1.5">PAÍSES EN PRODUCCIÓN</text>
+    </g>
+    <!-- 4 -->
+    <g transform="translate(1050 282)">
+      <circle r="52" fill="none" stroke="#1F252D" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" transform="rotate(135)"/>
+      <circle r="52" fill="none" stroke="#FF6B2C" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 327" stroke-dashoffset="245" transform="rotate(135)">
+        <animate attributeName="stroke-dashoffset" from="245" to="37" dur="1.6s" begin="1s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+      </circle>
+      <text y="10" class="sans" font-size="34" font-weight="700" fill="#F0F3F6">22</text>
+      <text y="74" font-size="12" fill="#8B949E" letter-spacing="1.5">AGENCIAS CONSOLIDADAS</text>
+    </g>
+  </g>
+</svg>

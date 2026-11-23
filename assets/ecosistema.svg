@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Arquitectura del ecosistema que lidero: fuentes DMS y APIs, capa de integración CapnetBridge, plataforma SeguimientoLite y CapnetRI, salidas PDF, WhatsApp y KPIs; operación con Capnet Monitor.">
+  <defs>
+    <style>
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace}
+      .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+      .box{fill:#11151A;stroke:#2A313A}
+      .hot{fill:#16110D;stroke:#FF6B2C}
+      .t{font-size:16px;font-weight:600;fill:#F0F3F6}
+      .s{font-size:12px;fill:#8B949E}
+      .h{font-size:12px;fill:#FF6B2C;letter-spacing:2px}
+      .flow{fill:none;stroke:#FF6B2C;stroke-width:1.6;stroke-dasharray:5 7;animation:f 1.2s linear infinite}
+      .flow2{fill:none;stroke:#3A424C;stroke-width:1.4;stroke-dasharray:4 6;animation:f 1.6s linear infinite}
+      @keyframes f{to{stroke-dashoffset:-24}}
+    </style>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#FF6B2C"/></marker>
+  </defs>
+
+  <rect width="1200" height="560" rx="14" fill="#0B0D10"/>
+  <rect x="0.5" y="0.5" width="1199" height="559" rx="14" fill="none" stroke="#21262D"/>
+
+  <!-- Encabezados de columna -->
+  <g class="mono h">
+    <text x="40" y="48">01 · FUENTES</text>
+    <text x="330" y="48">02 · INTEGRACIÓN</text>
+    <text x="620" y="48">03 · PLATAFORMA</text>
+    <text x="930" y="48">04 · SALIDAS</text>
+  </g>
+
+  <!-- 01 Fuentes -->
+  <g class="sans">
+    <rect class="box" x="40" y="72" width="240" height="78" rx="8"/>
+    <text class="t" x="58" y="104">DMS de agencias</text>
+    <text class="s mono" x="58" y="128">Intelisis · BD por sede</text>
+
+    <rect class="box" x="40" y="168" width="240" height="78" rx="8"/>
+    <text class="t" x="58" y="200">APIs de armadoras</text>
+    <text class="s mono" x="58" y="224">Citas · REST · Bearer</text>
+
+    <rect class="box" x="40" y="264" width="240" height="78" rx="8"/>
+    <text class="t" x="58" y="296">22 BD Nissan Colombia</text>
+    <text class="s mono" x="58" y="320">Esquemas heterogéneos</text>
+  </g>
+
+  <!-- 02 Integración -->
+  <g class="sans">
+    <rect class="box" x="330" y="96" width="240" height="96" rx="8"/>
+    <text class="t" x="348" y="128">CapnetBridge</text>
+    <text class="s mono" x="348" y="152">Vistas SQL normalizadas</text>
+    <text class="s mono" x="348" y="172">TRY_CAST · UNION multi-BD</text>
+
+    <rect class="box" x="330" y="216" width="240" height="96" rx="8"/>
+    <text class="t" x="348" y="248">Capa API</text>
+    <text class="s mono" x="348" y="272">DRF · TokenAuth · AES-GCM</text>
+    <text class="s mono" x="348" y="292">Integraciones de terceros</text>
+  </g>
+
+  <!-- 03 Plataforma -->
+  <g class="sans">
+    <rect class="hot" x="620" y="72" width="260" height="150" rx="8"/>
+    <text class="t" x="640" y="104">SeguimientoLite</text>
+    <text class="s mono" x="640" y="128">Django multi-tenant</text>
+    <text class="s mono" x="640" y="156" fill="#C9D1D9">Nissan CO · Hyundai MX</text>
+    <text class="s mono" x="640" y="176" fill="#C9D1D9">Stellantis · Mazda · Toyota</text>
+    <text class="s mono" x="640" y="204">Asesor · Técnico · Refacciones</text>
+
+    <rect class="box" x="620" y="240" width="260" height="102" rx="8"/>
+    <text class="t" x="640" y="272">CapnetRI</text>
+    <text class="s mono" x="640" y="296">Vue.js + .NET</text>
+    <text class="s mono" x="640" y="316">Recepción e inspección</text>
+  </g>
+
+  <!-- 04 Salidas -->
+  <g class="sans">
+    <rect class="box" x="930" y="72" width="230" height="78" rx="8"/>
+    <text class="t" x="948" y="104">PDF al cliente</text>
+    <text class="s mono" x="948" y="128">Health check · Cotización</text>
+
+    <rect class="box" x="930" y="168" width="230" height="78" rx="8"/>
+    <text class="t" x="948" y="200">WhatsApp / Email</text>
+    <text class="s mono" x="948" y="224">Envíos por sede</text>
+
+    <rect class="box" x="930" y="264" width="230" height="78" rx="8"/>
+    <text class="t" x="948" y="296">KPIs consolidados</text>
+    <text class="s mono" x="948" y="320">Productividad por asesor</text>
+  </g>
+
+  <!-- Flujos -->
+  <path class="flow" d="M280 111 H305 V144 H326" marker-end="url(#a)"/>
+  <path class="flow" d="M280 207 H305 V264 H326" marker-end="url(#a)"/>
+  <path class="flow" d="M280 303 H305 V170 H326" marker-end="url(#a)"/>
+  <path class="flow" d="M570 144 H616" marker-end="url(#a)"/>
+  <path class="flow" d="M570 264 H595 V180 H616" marker-end="url(#a)"/>
+  <path class="flow2" d="M750 222 V236"/>
+  <path class="flow" d="M880 111 H926" marker-end="url(#a)"/>
+  <path class="flow" d="M880 170 H905 V207 H926" marker-end="url(#a)"/>
+  <path class="flow" d="M880 291 H905 V303 H926" marker-end="url(#a)"/>
+
+  <!-- Operación -->
+  <text x="40" y="398" class="mono h">05 · OPERACIÓN Y DESPLIEGUE</text>
+  <rect class="box" x="40" y="414" width="1120" height="110" rx="8"/>
+  <g class="sans">
+    <text class="t" x="64" y="450">Capnet Monitor</text>
+    <text class="s mono" x="64" y="474">Django + React · logs en streaming</text>
+    <text class="s mono" x="64" y="494">Agentes Windows con token</text>
+
+    <line x1="360" y1="434" x2="360" y2="504" stroke="#2A313A"/>
+    <text class="t" x="384" y="450">capnet_tools</text>
+    <text class="s mono" x="384" y="474">setup.py / update.py automatizados</text>
+    <text class="s mono" x="384" y="494">Merge de settings · migraciones</text>
+
+    <line x1="680" y1="434" x2="680" y2="504" stroke="#2A313A"/>
+    <text class="t" x="704" y="450">Windows Server</text>
+    <text class="s mono" x="704" y="474">IIS · Daphne/ASGI · Nginx</text>
+    <text class="s mono" x="704" y="494">WhiteNoise · S3</text>
+
+    <line x1="960" y1="434" x2="960" y2="504" stroke="#2A313A"/>
+    <text class="t" x="984" y="450">Calidad</text>
+    <text class="s mono" x="984" y="474">Code review · backlog</text>
+    <text class="s mono" x="984" y="494">Redmine · Postman</text>
+  </g>
+  <path class="flow2" d="M750 342 V410"/>
+</svg>
